@@ -13,14 +13,12 @@ venv/
 env/
 
 # Environment (keep .env with real keys out of git)
-.env
 
 # Generated reports
 reports/
 *.json
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -31,3 +29,5 @@ Thumbs.db
 
 # Installed packages
 *.whl
+config.bat
+node_modules
